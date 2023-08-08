@@ -1,7 +1,7 @@
 ![](https://media.giphy.com/media/6W42KCwzXtPgfcGzsV/giphy.gif)
 ## 👋 Hi, I’m Hannah Wang ## 
 - 👀 I’m a **Frontend Developer** and interested in **Solving Problems** 
-- 🧡 I love learning new things.
+- 🧡 Love to learn new things
 - -🌱 I’m currently learning **Tailwind and it's plugings**
 
 - 📫 How to reach me <hanforwork896@gmail.com> ,
