@@ -1,8 +1,8 @@
 ![](https://media.giphy.com/media/6W42KCwzXtPgfcGzsV/giphy.gif)
 ## 👋 Hi, I’m Hannah Wang ## 
-- 👀 I’m interested in **Frontend Develop , Solve Problems** 
-- 🧡 I love  learning new things.
-- -🌱 I’m currently learning **Vue.js and it's plugings**
+- 👀 I’m a **Frontend Developer** and interested in **Solving Problems** 
+- 🧡 I love learning new things.
+- -🌱 I’m currently learning **Tailwind and it's plugings**
 
 - 📫 How to reach me <hanforwork896@gmail.com> ,
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
