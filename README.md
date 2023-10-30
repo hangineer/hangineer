@@ -2,9 +2,9 @@
 ## 👋 Hi, I’m Hannah Wang ## 
 - 👀 I’m a **Frontend Developer** and interested in **Solving Problems** 
 - 🧡 Love to learn new things
-- -🌱 I’m currently learning **Tailwind and it's plugings**
+- 🌱 I’m currently learning **Tailwind and and its system**
 
-- 📫 How to reach me <hanforwork896@gmail.com> ,
+- 📫 You can reach me by <hanforwork896@gmail.com> or  
   [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
 
 <!---
