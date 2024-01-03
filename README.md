@@ -8,13 +8,16 @@
 
 ## | Projects and Articles ##
 Projects
-* [19 Antique—古董網站](https://github.com/hangineer/Antique-Website)
+* [19 Antique—古董網站](https://hangineer.github.io/Antique-Website/)
 * [宇你相遇—交友網站](https://github.com/hangineer/Dating-Website)
-* [Order List 訂單管理系統(含前/後台)](https://github.com/hangineer/order_list)
-* [故宮走走—展覽檢索暨策展網站](https://github.com/jamie-cloud99/palacewalk)
+* [Order List 訂單管理系統(含前/後台)](https://orderlists.netlify.app/)
+* [故宮走走—展覽檢索暨策展網站](palacewalk.vercel.app)
 
 Articles 
 * [IT邦幫忙(技術文章 & 2022、2023 鐵人賽）](https://ithelp.ithome.com.tw/users/20149362)
+
+Other
+* [資策會上課記錄和轉職小抒發](https://hangineer.github.io/)
 
 <!---
 hangineer/hangineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
