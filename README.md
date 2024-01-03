@@ -1,11 +1,20 @@
 ![](https://media.giphy.com/media/6W42KCwzXtPgfcGzsV/giphy.gif)
 ## 👋 Hi, I’m Hannah Wang ## 
-- 👀 I’m a **Frontend Developer** and interested in **Solving Problems** 
-- 🧡 Love to learn new things
-- 🌱 I’m currently learning **Tailwind and and its system**
+- 🧡 I’m a **Frontend Developer** . Love to **solve problems and learn new things**
+- 🌱 I’m currently learning **TypeScript**
 
-- 📫 You can reach me by <hanforwork896@gmail.com> or  
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
+- 📫 you can reach me on <hanforwork896@gmail.com> or [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
+- Discord: 🔎 hannahTW
+
+## | Projects and Articles ##
+Projects
+* [19 Antique—古董網站](https://github.com/hangineer/Antique-Website)
+* [宇你相遇—交友網站](https://github.com/hangineer/Dating-Website)
+* [Order List 訂單管理系統(含前/後台)](https://github.com/hangineer/order_list)
+* [故宮走走—展覽檢索暨策展網站](https://github.com/jamie-cloud99/palacewalk)
+
+Articles 
+* [IT邦幫忙(技術文章 & 2022、2023 鐵人賽）](https://ithelp.ithome.com.tw/users/20149362)
 
 <!---
 hangineer/hangineer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
