@@ -1,15 +1,15 @@
 ![](https://media.giphy.com/media/6W42KCwzXtPgfcGzsV/giphy.gif)
 ## 👋 Hi, my name is Hannah Wang, a Frontend Developer ##
 
-- 📫 <hanforwork896@gmail.com>
--  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
+- <hanforwork896@gmail.com>
+- [Linkedin](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
 - Discord: hannahTW
 
 ## | Projects and Articles ##
 Projects
 
 * [故宮走走—展覽檢索暨策展網站](https://palacewalk.vercel.app/#/)
-*  [Order List 訂單管理系統(含前/後台)](https://orderlists.netlify.app/)
+* [Order List 訂單管理系統(含前/後台)](https://orderlists.netlify.app/)
 * [宇你相遇—交友網站](https://github.com/hangineer/Dating-Website)
 * [19 Antique—古董網站](https://hangineer.github.io/Antique-Website/)
 
