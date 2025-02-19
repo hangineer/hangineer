@@ -9,7 +9,7 @@
 Projects
 
 * [故宮走走—展覽檢索暨策展網站](https://palacewalk.vercel.app/#/)
-* [Order List 訂單管理系統(含前/後台)](https://orderlists.netlify.app/)
+* [Order List 訂單管理系統](https://orderlists.netlify.app/)
 * [宇你相遇—交友網站](https://github.com/hangineer/Dating-Website)
 * [19 Antique—古董網站](https://hangineer.github.io/Antique-Website/)
 
