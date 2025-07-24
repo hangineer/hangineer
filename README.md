@@ -1,7 +1,6 @@
 ![](https://media.giphy.com/media/6W42KCwzXtPgfcGzsV/giphy.gif)
 ## Hi, my name is Hannah Wang, a Frontend Developer ##
 
-- <hanforwork896@gmail.com>
 - [Linkedin](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
 - Discord: hannahTW
 
@@ -43,7 +42,7 @@ You can click the Preview link to take a look at your changes.
 - Side Project: [Travel Mate](https://github.com/loveu8/TravelPlanWithAccounting) (緩慢開發中)
 - 📚 讀書會: 《簡約的軟體開發思維：用 Functional Programming 重構程式 - 以 Javascript 為例》
 - 👥 2025 COSCUP Program Team Volunteer | 2025 COSCUP 議程組志工
-- 👩🏻‍💻 Project Coach in HexSchool (Coding Acasema) | 六角學院 - 專題教練
+- 👩🏻‍💻 Project Coach in HexSchool (Web Devdelopment Learning Academy) | 六角學院 - 專題教練
 </section>
 
 
