@@ -41,11 +41,11 @@ You can click the Preview link to take a look at your changes.
 <section id="backpack">
 <h2 style="color:#D9934C"> 🎯 What I'm currently working on... </h2>
 
-- Side Project: [Travel Mate](https://github.com/loveu8/TravelPlanWithAccounting) (緩慢開發中)
-- 📚 讀書會: [《Vue.js 設計實戰》](https://hackmd.io/@tech-book-community/ryWKlLHBxx)| 負責「編譯器」章節導讀
+- 💻 Side Project: [Travel Mate 旅遊行程規劃網站](https://github.com/loveu8/TravelPlanWithAccounting) (緩慢開發中)
+- 📚 讀書會: [《Vue.js 設計實戰》](https://hackmd.io/@tech-book-community/ryWKlLHBxx) (負責「編譯器」章節導讀)
 - 👥 2025 COSCUP 議程組志工
 - 👥 2025 JSDC 行銷組志工
-- 👩🏻‍💻 六角學院 - (兼)專題教練
+- 🏫 六角學院 - (兼)專題教練
 </section>
 
 
