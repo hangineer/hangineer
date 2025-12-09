@@ -1,5 +1,5 @@
 ![](https://media.giphy.com/media/6W42KCwzXtPgfcGzsV/giphy.gif)
-## Hi, my name is Hannah Wang, a Frontend Developer ##
+## Hi, my name is Hannah Wang, a Frontend Developer in Taiwan 🇹🇼
 
 - [Linkedin](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
 - Discord: hannahTW
@@ -7,15 +7,17 @@
 ## | Projects and Articles ##
 Projects
 
-* [故宮走走—展覽檢索暨策展網站](https://palacewalk.vercel.app/#/)
-* [Order List 訂單管理系統](https://orderlists.netlify.app/)
+* [故宮走走—展覽檢索暨策展網站](https://palacewalk.vercel.app/#/) (account & pwd: lora@gmail.com / lora123)
+* [Happy-Bird-Order-System 訂單管理系統](https://orderlists.netlify.app/) ([LoginInfo](https://github.com/hangineer/Happy-Bird-Order-System?tab=readme-ov-file#user-flow-%E7%94%A8%E6%88%B6%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B))
 * [宇你相遇—交友網站](https://github.com/hangineer/Dating-Website)
-* [19 Antique—古董網站](https://hangineer.github.io/Antique-Website/)
+* [19 Antique—古董網站](https://hangineer.github.io/Antique-Website/) (純靜態網站)
 
 
 
 Articles 
+* [Medium 工作與技術文章](https://medium.com/@hanforwork896)
 * [IT邦幫忙(技術文章 & 2022 ~ 2024 鐵人賽）](https://ithelp.ithome.com.tw/users/20149362/ironman)
+
 
 Other
 * [資策會上課記錄和轉職小抒發](https://hangineer.github.io/)
@@ -40,9 +42,10 @@ You can click the Preview link to take a look at your changes.
 <h2 style="color:#D9934C"> 🎯 What I'm currently working on... </h2>
 
 - Side Project: [Travel Mate](https://github.com/loveu8/TravelPlanWithAccounting) (緩慢開發中)
-- 📚 讀書會: 《簡約的軟體開發思維：用 Functional Programming 重構程式 - 以 Javascript 為例》
-- 👥 2025 COSCUP Program Team Volunteer | 2025 COSCUP 議程組志工
-- 👩🏻‍💻 Project Coach in HexSchool (Web Devdelopment Learning Academy) | 六角學院 - 專題教練
+- 📚 讀書會: [《Vue.js 設計實戰》](https://hackmd.io/@tech-book-community/ryWKlLHBxx)| 負責「編譯器」章節導讀
+- 👥 2025 COSCUP 議程組志工
+- 👥 2025 JSDC 行銷組志工
+- 👩🏻‍💻 六角學院 - (兼)專題教練
 </section>
 
 
