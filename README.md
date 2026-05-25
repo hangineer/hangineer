@@ -1,9 +1,6 @@
 ![](https://media.giphy.com/media/6W42KCwzXtPgfcGzsV/giphy.gif)
 ## Hi, my name is Hannah Wang, a Frontend Developer in Taiwan 🇹🇼
 
-- [Linkedin](https://www.linkedin.com/in/%E6%B6%B5-%E7%8E%8B-9b40b0242)
-- Discord: hannahTW
-
 ## | Projects and Articles ##
 Projects
 
